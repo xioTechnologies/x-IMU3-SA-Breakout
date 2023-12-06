@@ -1,0 +1,15 @@
+Altium Designer Pick and Place Locations
+C:\MyFiles\x-io\Products\x-IMU3\x-IMU3-SA-Breakout\Project Outputs for x-IMU3-SA-Breakout\Pick Place\Pick Place for x-IMU3-SA-Breakout.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       06/12/23
+Time:       16:17
+Revision:   08352b21a2cf664f489e35e7619eb1254dce6294
+Variant:    No variations
+Units used: mm
+
+"Designator","Center-X(mm)","Center-Y(mm)","Layer","Rotation","Comment"
+"J2","11.5000mm","4.0000mm","TopLayer","0","Molex 90121-0763"
+"J1","18.5000mm","4.0000mm","TopLayer","180","SP-3533-02"
